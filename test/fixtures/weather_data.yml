@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  temp: 1
+  chumidity: 1
+  windspeed: 
+  condition: MyString
+
+two:
+  temp: 1
+  chumidity: 1
+  windspeed: 
+  condition: MyString
