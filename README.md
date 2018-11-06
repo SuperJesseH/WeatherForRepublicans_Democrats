@@ -1,24 +1,3 @@
-# README
+This Rails app will make API calls to weather services and approximate the average weather being experienced by either Republicans or Democrats throughout the United States. It will rely on current weather and recent election/political data.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This app will serve a front-end website that will mock the increasing political and informational polarization in the United States and the world. It is not intended to insult, complement, disavow or endorse any political viewpoint, group or party unless explicitly stated.
